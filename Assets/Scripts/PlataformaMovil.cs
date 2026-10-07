@@ -55,7 +55,6 @@ public class PlataformaMovil : MonoBehaviour
         vaHaciaB = !vaHaciaB;
         puedeMoverse = true;
 
-        Debug.Log("¡La plataforma cambió de dirección!");
     }
     private void OnCollisionEnter(Collision collision)
     {
