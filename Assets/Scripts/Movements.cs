@@ -15,7 +15,7 @@ public class Movements : MonoBehaviour
     void Start()
     {
         
-            rb = GetComponent<Rigidbody>();
+       
             rb = GetComponent<Rigidbody>();
             velocidadOriginal = velocidad;
 
