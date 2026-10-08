@@ -136,3 +136,4 @@ En este caso, el primer obstáculo aparece después de **2 segundos** y los sigu
 ##  Autor
 
 **Gutierrez Gianella Alexandra**
+*DNI: 45253615*
