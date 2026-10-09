@@ -35,6 +35,7 @@ El proyecto permite poner en práctica conceptos como **movimiento, físicas, co
 
 ##  Mecánicas implementadas
 
+* Cámara con Cinemachine: seguimiento del jugador durante el recorrido del circuito.
 * Movimiento y salto del jugador.
   ![Captura del escenario](Assets/Images/01.png)
 * Plataformas móviles entre dos posiciones.
